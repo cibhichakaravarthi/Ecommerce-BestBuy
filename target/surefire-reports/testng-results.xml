@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="18" total="31" passed="13" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\createAccountValidCredentials.png width = 200px height=200px />]]>
+    </line>
+    <line>
+      <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\createAccountInvalidCredentials.png width = 200px height=200px />]]>
+    </line>
+    <line>
+      <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\createAccountEmptyCredentials.png width = 200px height=200px />]]>
+    </line>
+    <line>
+      <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\signUpValidCredentials.png width = 200px height=200px />]]>
+    </line>
+    <line>
+      <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\signUpInValidCredentials.png width = 200px height=200px />]]>
+    </line>
+    <line>
+      <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\signUpEmptyCredentials.png width = 200px height=200px />]]>
+    </line>
+    <line>
+      <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\topLinkVerification.png width = 200px height=200px />]]>
+    </line>
+    <line>
+      <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\bottomLinkVerification.png width = 200px height=200px />]]>
+    </line>
+    <line>
+      <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\searchAddToshoppingCart.png width = 200px height=200px />]]>
+    </line>
+    <line>
+      <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\shopByBrands.png width = 200px height=200px />]]>
+    </line>
+    <line>
+      <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\shopByDepartment.png width = 200px height=200px />]]>
+    </line>
+    <line>
+      <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\checkoutLoginProcess.png width = 200px height=200px />]]>
+    </line>
+    <line>
+      <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\paymentInformation.png width = 200px height=200px />]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-09T17:57:05 IST" name="Suite" finished-at="2024-07-09T18:00:23 IST" duration-ms="198756">
+    <groups>
+    </groups>
+    <test started-at="2024-07-09T17:57:05 IST" name="Chrome Test" finished-at="2024-07-09T18:00:23 IST" duration-ms="198756">
+      <class name="tests.ShopByDepartmentTest">
+        <test-method signature="shopByDepartment()[pri:0, instance:tests.ShopByDepartmentTest@2ddc9a9f]" started-at="2024-07-09T17:59:27 IST" name="shopByDepartment" finished-at="2024-07-09T17:59:48 IST" duration-ms="21013" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\shopByDepartment.png width = 200px height=200px />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- shopByDepartment -->
+      </class> <!-- tests.ShopByDepartmentTest -->
+      <class name="tests.ShopByBrandTest">
+        <test-method signature="shopByBrands()[pri:0, instance:tests.ShopByBrandTest@2e385cce]" started-at="2024-07-09T17:58:59 IST" name="shopByBrands" finished-at="2024-07-09T17:59:27 IST" duration-ms="27713" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\shopByBrands.png width = 200px height=200px />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- shopByBrands -->
+      </class> <!-- tests.ShopByBrandTest -->
+      <class name="tests.MenuValidationTest">
+        <test-method signature="topLinkVerification()[pri:0, instance:tests.MenuValidationTest@750e2b97]" started-at="2024-07-09T17:58:25 IST" name="topLinkVerification" finished-at="2024-07-09T17:58:26 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\topLinkVerification.png width = 200px height=200px />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- topLinkVerification -->
+        <test-method signature="bottomLinkVerification()[pri:1, instance:tests.MenuValidationTest@750e2b97]" started-at="2024-07-09T17:58:26 IST" name="bottomLinkVerification" finished-at="2024-07-09T17:58:27 IST" duration-ms="486" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\bottomLinkVerification.png width = 200px height=200px />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bottomLinkVerification -->
+      </class> <!-- tests.MenuValidationTest -->
+      <class name="tests.SearchItemTest">
+        <test-method signature="searchAddToshoppingCart()[pri:0, instance:tests.SearchItemTest@3e27aa33]" started-at="2024-07-09T17:58:27 IST" name="searchAddToshoppingCart" finished-at="2024-07-09T17:58:59 IST" duration-ms="31902" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\searchAddToshoppingCart.png width = 200px height=200px />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchAddToshoppingCart -->
+      </class> <!-- tests.SearchItemTest -->
+      <class name="tests.CheckoutAndPaymentProcessTest">
+        <test-method signature="checkoutLoginProcess()[pri:0, instance:tests.CheckoutAndPaymentProcessTest@298a5e20]" started-at="2024-07-09T17:59:48 IST" name="checkoutLoginProcess" finished-at="2024-07-09T17:59:53 IST" duration-ms="5027" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\checkoutLoginProcess.png width = 200px height=200px />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkoutLoginProcess -->
+        <test-method signature="paymentInformation()[pri:0, instance:tests.CheckoutAndPaymentProcessTest@298a5e20]" started-at="2024-07-09T17:59:54 IST" name="paymentInformation" finished-at="2024-07-09T18:00:22 IST" duration-ms="28674" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\paymentInformation.png width = 200px height=200px />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- paymentInformation -->
+      </class> <!-- tests.CheckoutAndPaymentProcessTest -->
+      <class name="tests.CreateAccountTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:tests.CreateAccountTest@55a147cc]" started-at="2024-07-09T17:57:05 IST" name="setUp" finished-at="2024-07-09T17:57:08 IST" duration-ms="3915" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.bestbuy.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="urlVerify()[pri:0, instance:tests.CreateAccountTest@55a147cc]" started-at="2024-07-09T17:57:08 IST" name="urlVerify" finished-at="2024-07-09T17:57:19 IST" duration-ms="10583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlVerify -->
+        <test-method signature="createAccountValidCredentials(java.lang.String)[pri:0, instance:tests.CreateAccountTest@55a147cc]" started-at="2024-07-09T17:57:19 IST" name="createAccountValidCredentials" finished-at="2024-07-09T17:57:36 IST" duration-ms="17392" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7373977119]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\createAccountValidCredentials.png width = 200px height=200px />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createAccountValidCredentials -->
+        <test-method signature="createAccountInvalidCredentials(java.lang.String)[pri:1, instance:tests.CreateAccountTest@55a147cc]" started-at="2024-07-09T17:57:37 IST" name="createAccountInvalidCredentials" finished-at="2024-07-09T17:57:46 IST" duration-ms="9222" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9876543210]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\createAccountInvalidCredentials.png width = 200px height=200px />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createAccountInvalidCredentials -->
+        <test-method signature="createAccountEmptyCredentials()[pri:2, instance:tests.CreateAccountTest@55a147cc]" started-at="2024-07-09T17:57:46 IST" name="createAccountEmptyCredentials" finished-at="2024-07-09T17:57:53 IST" duration-ms="6622" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\createAccountEmptyCredentials.png width = 200px height=200px />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createAccountEmptyCredentials -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:tests.CreateAccountTest@55a147cc]" started-at="2024-07-09T18:00:23 IST" name="quit" finished-at="2024-07-09T18:00:23 IST" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- tests.CreateAccountTest -->
+      <class name="tests.SignInTest">
+        <test-method signature="signUpValidCredentials()[pri:0, instance:tests.SignInTest@3646a422]" started-at="2024-07-09T17:57:53 IST" name="signUpValidCredentials" finished-at="2024-07-09T17:58:06 IST" duration-ms="12688" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\signUpValidCredentials.png width = 200px height=200px />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signUpValidCredentials -->
+        <test-method signature="signUpInValidCredentials()[pri:1, instance:tests.SignInTest@3646a422]" started-at="2024-07-09T17:58:06 IST" name="signUpInValidCredentials" finished-at="2024-07-09T17:58:15 IST" duration-ms="8558" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\signUpInValidCredentials.png width = 200px height=200px />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signUpInValidCredentials -->
+        <test-method signature="signUpEmptyCredentials()[pri:2, instance:tests.SignInTest@3646a422]" started-at="2024-07-09T17:58:15 IST" name="signUpEmptyCredentials" finished-at="2024-07-09T17:58:25 IST" duration-ms="9956" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\signUpEmptyCredentials.png width = 200px height=200px />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signUpEmptyCredentials -->
+      </class> <!-- tests.SignInTest -->
+    </test> <!-- Chrome Test -->
+  </suite> <!-- Suite -->
+</testng-results>
