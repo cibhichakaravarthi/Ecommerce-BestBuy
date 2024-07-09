@@ -88,11 +88,11 @@ public class MyListener extends BaseClass implements ITestListener {
     @Override
     public void onFinish(ITestContext context) {
         report.flush();
-        File eReportFile = new File("C:\\Users\\cibhi\\eclipse-workspace\\Ecommerce\\report\\TestReport.html");
-        try {
-            Desktop.getDesktop().browse(eReportFile.toURI());
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
+        // File eReportFile = new File("C:\\Users\\cibhi\\eclipse-workspace\\Ecommerce\\report\\TestReport.html");
+        // try {
+        //     Desktop.getDesktop().browse(eReportFile.toURI());
+        // } catch (IOException e) {
+        //     throw new RuntimeException(e);
+        // }
     }
 }
