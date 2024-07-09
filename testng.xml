@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="Listerners.MyListener" />
+	</listeners>
+	<test name="Chrome Test">
+		<parameter name="browser" value="Chrome"/>
+		<parameter name="url" value="https://www.bestbuy.com"/>
+		<classes>
+			<class name="tests.CreateAccountTest">
+				<parameter name="validphonenumber" value="7373977119"/>
+				<parameter name="invalidphonenumber" value="9876543210"/>
+			</class>
+			<class name="tests.SignInTest"/>
+			<class name="tests.MenuValidationTest"/>
+			<class name="tests.SearchItemTest"/>
+     	 	<class name="tests.ShopByBrandTest"/>
+      		<class name="tests.ShopByDepartmentTest"/>
+      		<class name="tests.CheckoutAndPaymentProcessTest"/>  		
+    	</classes>
+  	</test> <!-- Test -->
+</suite>
