@@ -41,12 +41,12 @@
       <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\paymentInformation.png width = 200px height=200px />]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-07-09T16:54:36 IST" name="Suite" finished-at="2024-07-09T16:57:55 IST" duration-ms="198308">
+  <suite started-at="2024-07-09T18:30:05 IST" name="Suite" finished-at="2024-07-09T18:33:39 IST" duration-ms="214038">
     <groups>
     </groups>
-    <test started-at="2024-07-09T16:54:36 IST" name="Chrome Test" finished-at="2024-07-09T16:57:55 IST" duration-ms="198308">
+    <test started-at="2024-07-09T18:30:05 IST" name="Chrome Test" finished-at="2024-07-09T18:33:39 IST" duration-ms="214038">
       <class name="tests.ShopByDepartmentTest">
-        <test-method signature="shopByDepartment()[pri:0, instance:tests.ShopByDepartmentTest@7486b455]" started-at="2024-07-09T16:56:58 IST" name="shopByDepartment" finished-at="2024-07-09T16:57:18 IST" duration-ms="19812" status="PASS">
+        <test-method signature="shopByDepartment()[pri:0, instance:tests.ShopByDepartmentTest@7486b455]" started-at="2024-07-09T18:32:38 IST" name="shopByDepartment" finished-at="2024-07-09T18:32:58 IST" duration-ms="20500" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\shopByDepartment.png width = 200px height=200px />]]>
@@ -55,7 +55,7 @@
         </test-method> <!-- shopByDepartment -->
       </class> <!-- tests.ShopByDepartmentTest -->
       <class name="tests.ShopByBrandTest">
-        <test-method signature="shopByBrands()[pri:0, instance:tests.ShopByBrandTest@23941fb4]" started-at="2024-07-09T16:56:29 IST" name="shopByBrands" finished-at="2024-07-09T16:56:58 IST" duration-ms="28970" status="PASS">
+        <test-method signature="shopByBrands()[pri:0, instance:tests.ShopByBrandTest@23941fb4]" started-at="2024-07-09T18:32:01 IST" name="shopByBrands" finished-at="2024-07-09T18:32:37 IST" duration-ms="36423" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\shopByBrands.png width = 200px height=200px />]]>
@@ -64,14 +64,14 @@
         </test-method> <!-- shopByBrands -->
       </class> <!-- tests.ShopByBrandTest -->
       <class name="tests.MenuValidationTest">
-        <test-method signature="topLinkVerification()[pri:0, instance:tests.MenuValidationTest@798162bc]" started-at="2024-07-09T16:55:57 IST" name="topLinkVerification" finished-at="2024-07-09T16:55:58 IST" duration-ms="319" status="PASS">
+        <test-method signature="topLinkVerification()[pri:0, instance:tests.MenuValidationTest@798162bc]" started-at="2024-07-09T18:31:23 IST" name="topLinkVerification" finished-at="2024-07-09T18:31:23 IST" duration-ms="255" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\topLinkVerification.png width = 200px height=200px />]]>
             </line>
           </reporter-output>
         </test-method> <!-- topLinkVerification -->
-        <test-method signature="bottomLinkVerification()[pri:1, instance:tests.MenuValidationTest@798162bc]" started-at="2024-07-09T16:55:58 IST" name="bottomLinkVerification" finished-at="2024-07-09T16:55:58 IST" duration-ms="571" status="PASS">
+        <test-method signature="bottomLinkVerification()[pri:1, instance:tests.MenuValidationTest@798162bc]" started-at="2024-07-09T18:31:23 IST" name="bottomLinkVerification" finished-at="2024-07-09T18:31:24 IST" duration-ms="453" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\bottomLinkVerification.png width = 200px height=200px />]]>
@@ -80,7 +80,7 @@
         </test-method> <!-- bottomLinkVerification -->
       </class> <!-- tests.MenuValidationTest -->
       <class name="tests.SearchItemTest">
-        <test-method signature="searchAddToshoppingCart()[pri:0, instance:tests.SearchItemTest@1df8da7a]" started-at="2024-07-09T16:55:59 IST" name="searchAddToshoppingCart" finished-at="2024-07-09T16:56:29 IST" duration-ms="29985" status="PASS">
+        <test-method signature="searchAddToshoppingCart()[pri:0, instance:tests.SearchItemTest@1df8da7a]" started-at="2024-07-09T18:31:24 IST" name="searchAddToshoppingCart" finished-at="2024-07-09T18:32:01 IST" duration-ms="36775" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\searchAddToshoppingCart.png width = 200px height=200px />]]>
@@ -89,14 +89,14 @@
         </test-method> <!-- searchAddToshoppingCart -->
       </class> <!-- tests.SearchItemTest -->
       <class name="tests.CheckoutAndPaymentProcessTest">
-        <test-method signature="checkoutLoginProcess()[pri:0, instance:tests.CheckoutAndPaymentProcessTest@660acfb]" started-at="2024-07-09T16:57:18 IST" name="checkoutLoginProcess" finished-at="2024-07-09T16:57:25 IST" duration-ms="6747" status="PASS">
+        <test-method signature="checkoutLoginProcess()[pri:0, instance:tests.CheckoutAndPaymentProcessTest@660acfb]" started-at="2024-07-09T18:32:58 IST" name="checkoutLoginProcess" finished-at="2024-07-09T18:33:04 IST" duration-ms="5746" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\checkoutLoginProcess.png width = 200px height=200px />]]>
             </line>
           </reporter-output>
         </test-method> <!-- checkoutLoginProcess -->
-        <test-method signature="paymentInformation()[pri:0, instance:tests.CheckoutAndPaymentProcessTest@660acfb]" started-at="2024-07-09T16:57:25 IST" name="paymentInformation" finished-at="2024-07-09T16:57:54 IST" duration-ms="28993" status="PASS">
+        <test-method signature="paymentInformation()[pri:0, instance:tests.CheckoutAndPaymentProcessTest@660acfb]" started-at="2024-07-09T18:33:04 IST" name="paymentInformation" finished-at="2024-07-09T18:33:38 IST" duration-ms="34058" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\paymentInformation.png width = 200px height=200px />]]>
@@ -105,7 +105,7 @@
         </test-method> <!-- paymentInformation -->
       </class> <!-- tests.CheckoutAndPaymentProcessTest -->
       <class name="tests.CreateAccountTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:tests.CreateAccountTest@38145825]" started-at="2024-07-09T16:54:36 IST" name="setUp" finished-at="2024-07-09T16:54:39 IST" duration-ms="2990" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:tests.CreateAccountTest@38145825]" started-at="2024-07-09T18:30:05 IST" name="setUp" finished-at="2024-07-09T18:30:09 IST" duration-ms="3930" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -121,11 +121,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="urlVerify()[pri:0, instance:tests.CreateAccountTest@38145825]" started-at="2024-07-09T16:54:39 IST" name="urlVerify" finished-at="2024-07-09T16:54:50 IST" duration-ms="10408" status="PASS">
+        <test-method is-config="true" signature="urlVerify()[pri:0, instance:tests.CreateAccountTest@38145825]" started-at="2024-07-09T18:30:09 IST" name="urlVerify" finished-at="2024-07-09T18:30:17 IST" duration-ms="8443" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- urlVerify -->
-        <test-method signature="createAccountValidCredentials(java.lang.String)[pri:0, instance:tests.CreateAccountTest@38145825]" started-at="2024-07-09T16:54:50 IST" name="createAccountValidCredentials" finished-at="2024-07-09T16:55:09 IST" duration-ms="19684" status="PASS">
+        <test-method signature="createAccountValidCredentials(java.lang.String)[pri:0, instance:tests.CreateAccountTest@38145825]" started-at="2024-07-09T18:30:17 IST" name="createAccountValidCredentials" finished-at="2024-07-09T18:30:37 IST" duration-ms="19649" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -139,7 +139,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- createAccountValidCredentials -->
-        <test-method signature="createAccountInvalidCredentials(java.lang.String)[pri:1, instance:tests.CreateAccountTest@38145825]" started-at="2024-07-09T16:55:10 IST" name="createAccountInvalidCredentials" finished-at="2024-07-09T16:55:20 IST" duration-ms="10511" status="PASS">
+        <test-method signature="createAccountInvalidCredentials(java.lang.String)[pri:1, instance:tests.CreateAccountTest@38145825]" started-at="2024-07-09T18:30:37 IST" name="createAccountInvalidCredentials" finished-at="2024-07-09T18:30:49 IST" duration-ms="11162" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -153,34 +153,34 @@
             </line>
           </reporter-output>
         </test-method> <!-- createAccountInvalidCredentials -->
-        <test-method signature="createAccountEmptyCredentials()[pri:2, instance:tests.CreateAccountTest@38145825]" started-at="2024-07-09T16:55:21 IST" name="createAccountEmptyCredentials" finished-at="2024-07-09T16:55:29 IST" duration-ms="8012" status="PASS">
+        <test-method signature="createAccountEmptyCredentials()[pri:2, instance:tests.CreateAccountTest@38145825]" started-at="2024-07-09T18:30:49 IST" name="createAccountEmptyCredentials" finished-at="2024-07-09T18:30:55 IST" duration-ms="6331" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\createAccountEmptyCredentials.png width = 200px height=200px />]]>
             </line>
           </reporter-output>
         </test-method> <!-- createAccountEmptyCredentials -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:tests.CreateAccountTest@38145825]" started-at="2024-07-09T16:57:54 IST" name="quit" finished-at="2024-07-09T16:57:55 IST" duration-ms="576" status="PASS">
+        <test-method is-config="true" signature="quit()[pri:0, instance:tests.CreateAccountTest@38145825]" started-at="2024-07-09T18:33:39 IST" name="quit" finished-at="2024-07-09T18:33:39 IST" duration-ms="379" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
       </class> <!-- tests.CreateAccountTest -->
       <class name="tests.SignInTest">
-        <test-method signature="signUpValidCredentials()[pri:0, instance:tests.SignInTest@465232e9]" started-at="2024-07-09T16:55:29 IST" name="signUpValidCredentials" finished-at="2024-07-09T16:55:37 IST" duration-ms="8020" status="PASS">
+        <test-method signature="signUpValidCredentials()[pri:0, instance:tests.SignInTest@465232e9]" started-at="2024-07-09T18:30:56 IST" name="signUpValidCredentials" finished-at="2024-07-09T18:31:05 IST" duration-ms="9203" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\signUpValidCredentials.png width = 200px height=200px />]]>
             </line>
           </reporter-output>
         </test-method> <!-- signUpValidCredentials -->
-        <test-method signature="signUpInValidCredentials()[pri:1, instance:tests.SignInTest@465232e9]" started-at="2024-07-09T16:55:37 IST" name="signUpInValidCredentials" finished-at="2024-07-09T16:55:49 IST" duration-ms="11387" status="PASS">
+        <test-method signature="signUpInValidCredentials()[pri:1, instance:tests.SignInTest@465232e9]" started-at="2024-07-09T18:31:05 IST" name="signUpInValidCredentials" finished-at="2024-07-09T18:31:13 IST" duration-ms="7830" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\signUpInValidCredentials.png width = 200px height=200px />]]>
             </line>
           </reporter-output>
         </test-method> <!-- signUpInValidCredentials -->
-        <test-method signature="signUpEmptyCredentials()[pri:2, instance:tests.SignInTest@465232e9]" started-at="2024-07-09T16:55:49 IST" name="signUpEmptyCredentials" finished-at="2024-07-09T16:55:57 IST" duration-ms="8083" status="PASS">
+        <test-method signature="signUpEmptyCredentials()[pri:2, instance:tests.SignInTest@465232e9]" started-at="2024-07-09T18:31:13 IST" name="signUpEmptyCredentials" finished-at="2024-07-09T18:31:22 IST" duration-ms="8901" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<img src= C:\Users\cibhi\eclipse-workspace\Ecommerce\screenshots\signUpEmptyCredentials.png width = 200px height=200px />]]>
